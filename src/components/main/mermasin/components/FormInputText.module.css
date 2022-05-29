@@ -1,0 +1,28 @@
+.form_container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.form{
+    display: flex;
+    gap: 5px;
+}
+
+.inputList{
+    border-radius: 6px;
+    height: 30px;
+    width: 330px;
+    cursor: pointer;
+}
+
+.btn{
+    height: 30px;
+    width: 40px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(48, 196, 207);
+    color: aliceblue;
+    cursor: pointer;
+}

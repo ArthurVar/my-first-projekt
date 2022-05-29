@@ -1,0 +1,23 @@
+.listDiv{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(173, 208, 233);
+    border-radius: 8px;
+    height: 340px;
+    margin: 8px;
+    overflow-x: hidden;
+}
+
+
+
+.listItem{
+    padding: 4px;
+    margin: 4px;
+    border-radius: 6px;
+    color: aliceblue;
+    background-color: rgb(36, 57, 74);
+    font-style: italic;
+    max-width: 375px;
+    width: 375px;
+}
+
